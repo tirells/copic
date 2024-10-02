@@ -8,7 +8,6 @@
     </div>
     <div class="charter">
         <a href="/nyccharter">NYC Charter §1061</a>
-        <a href="https://pubadvocate.nyc/copic-nyc/" target="_blank" rel="noopener noreferrer">Theo Chino's Message</a>
     </div>
     <div class="social">
         <div>Stay Connected</div>
